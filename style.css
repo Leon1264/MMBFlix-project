@@ -1,0 +1,64 @@
+body{
+    
+    background-size: 100%;
+    background-image: url("C:/Users/94777/Desktop/Leons_Prj/HTML,CSS,JS/MMBFlix/drkgry bg.jpg");
+}
+
+#navigation{
+    background-color: #232529;  
+    margin-bottom: 30px; 
+    position: sticky;
+    height: 65px;
+}
+
+#logo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.links{
+    
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: lightgray;
+    padding: 15px;
+    
+}
+
+
+.welcome_text{
+    margin: 20px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: gray;
+    font-size: 30px;
+}
+
+.overlay-image{
+    height: 400px;
+    opacity: 0.5;
+    background-size: cover;
+    background-position: center;
+}
+
+.carousel-container{
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 10%;
+    padding-bottom: 50px;
+
+}
+.carousel-container h1{
+    color: aliceblue;
+}
+
+.carousel-container p{
+    color: white;
+}
+
